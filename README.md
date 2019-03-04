@@ -1,5 +1,5 @@
 # Food-Ordering-System
-Food Ordering System is a web application that written in PHP that manages the restaurant menu order between waiter and chef.
+Food Ordering System is a web application that manages the restaurant menu order between waiter and chef.
 
 ## Language 
 - HTML
@@ -10,5 +10,9 @@ Food Ordering System is a web application that written in PHP that manages the r
 - Bootstrap
 - JQuery + Ajax
 
+## Installation
+
 ## Template 
 - [SB Admin](https://startbootstrap.com/templates/sb-admin/)
+
+### Notes
