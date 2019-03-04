@@ -36,13 +36,13 @@ Food Ordering System is a web application that manages the restaurant menu order
 
 ## Screenshot
 ![image](https://i.imgur.com/y8qQPC4.png)
-https://i.imgur.com/MHa9IiM.png
-https://i.imgur.com/gkNRYLc.png
-https://i.imgur.com/XVdThwc.png
-https://i.imgur.com/Y1Ya54s.png
-https://i.imgur.com/AMkNjki.png
-https://i.imgur.com/nCpTu75.png
-https://i.imgur.com/rhg7GrG.png
+![image](https://i.imgur.com/MHa9IiM.png)
+![image](https://i.imgur.com/gkNRYLc.png)
+![image](https://i.imgur.com/XVdThwc.png)
+![image](https://i.imgur.com/Y1Ya54s.png)
+![image](https://i.imgur.com/AMkNjki.png)
+![image](https://i.imgur.com/nCpTu75.png)
+![image](https://i.imgur.com/rhg7GrG.png)
 
 ### Notes
 1. This is not ready for production.
