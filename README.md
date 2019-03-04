@@ -35,7 +35,7 @@ Food Ordering System is a web application that manages the restaurant menu order
 - [SB Admin](https://startbootstrap.com/templates/sb-admin/)
 
 ## Screenshot
-[image](https://i.imgur.com/y8qQPC4.png)
+![image](https://i.imgur.com/y8qQPC4.png)
 https://i.imgur.com/MHa9IiM.png
 https://i.imgur.com/gkNRYLc.png
 https://i.imgur.com/XVdThwc.png
