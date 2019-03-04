@@ -4,9 +4,15 @@ Food Ordering System is a web application that manages the restaurant menu order
 ## Functions
 ### Admin
 - Check current order list.
-- Check staff availability
+- Check staff availability.
 - Add and delete menu.
-- Check sales list and statistics
+- Add and delete staff.
+- Check sales list and statistics.
+
+## Staff
+- Waiter
+	- Real time latest ready order.
+	- Taking order from customer.
 
 ## Language 
 - HTML
