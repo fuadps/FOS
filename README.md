@@ -10,14 +10,14 @@ Food Ordering System is a web application that manages the restaurant menu order
 - Check sales list and statistics.
 
 ### Staff
-- Waiter
+- **Waiter**
 	- Real time notification latest ready order to serve.
 	- Taking order from customer.
-- Chef/Kitchen
+- **Chef/Kitchen**
 	- Real time notification latest order come to kitchen.
 	- Update current status order in kitchen.
-- Both 
-	- Update staff availibity.
+- **Both** 
+	- Update staff availability.
 
 ## Language 
 - HTML
@@ -35,6 +35,14 @@ Food Ordering System is a web application that manages the restaurant menu order
 - [SB Admin](https://startbootstrap.com/templates/sb-admin/)
 
 ## Screenshot
+[image](https://i.imgur.com/y8qQPC4.png)
+https://i.imgur.com/MHa9IiM.png
+https://i.imgur.com/gkNRYLc.png
+https://i.imgur.com/XVdThwc.png
+https://i.imgur.com/Y1Ya54s.png
+https://i.imgur.com/AMkNjki.png
+https://i.imgur.com/nCpTu75.png
+https://i.imgur.com/rhg7GrG.png
 
 ### Notes
 1. This is not ready for production.
