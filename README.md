@@ -9,3 +9,6 @@ Food Ordering System is a web application that written in PHP that manages the r
 ## Framework
 - Bootstrap
 - JQuery + Ajax
+
+## Template 
+- [SB Admin](https://startbootstrap.com/templates/sb-admin/)
