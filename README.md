@@ -9,10 +9,15 @@ Food Ordering System is a web application that manages the restaurant menu order
 - Add and delete staff.
 - Check sales list and statistics.
 
-## Staff
+### Staff
 - Waiter
-	- Real time latest ready order.
+	- Real time notification latest ready order to serve.
 	- Taking order from customer.
+- Chef/Kitchen
+	- Real time notification latest order come to kitchen.
+	- Update current status order in kitchen.
+- Both 
+	- Update staff availibity.
 
 ## Language 
 - HTML
@@ -23,9 +28,14 @@ Food Ordering System is a web application that manages the restaurant menu order
 - Bootstrap
 - JQuery + Ajax
 
-## Installation
+## Database
+- Import fosdb.sql 
 
 ## Template 
 - [SB Admin](https://startbootstrap.com/templates/sb-admin/)
 
+## Screenshot
+
 ### Notes
+1. This is not ready for production.
+2. All staff created have same default password : Abc123
